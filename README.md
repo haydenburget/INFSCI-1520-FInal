@@ -21,6 +21,7 @@ Findings text introducing highlights of the produced figure in bulletin points.
 Figure 2: Bar Chart
  
 Legend Explained
+
 •	The x axis represents the season, and the y axis represents the average US viewers per season in the millions. 
 
 Findings text introducing highlights of the produced figure in bulletin points.
